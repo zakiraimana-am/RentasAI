@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "lint": "next lint",
-    "start": "next start"
+    "lint": "next lint"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
